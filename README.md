@@ -17,7 +17,7 @@
 </p>
 
 ## ¿Quién soy?
-Soy instructora del curso de Javascript, HTML y CSS 🎓 
+Soy instructora del curso de Javascript, HTML y CSS 🎓 <br>
 Soy desarrolladora fullstack y diseñadora UX|UI 🎨
 
 ### Gracias por visitar mi sitio
